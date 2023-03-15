@@ -1,0 +1,11 @@
+.App {
+}
+.main-bg {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-color: gray;
+}
+.clickable {
+  cursor: pointer;
+}
